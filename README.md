@@ -12,3 +12,10 @@ cd journeys-state-machine
 npm i
 node src
 ```
+
+State-Machine
+=============
+
+Visualization by https://xstate.js.org/viz/ with [journeys state machine](src/helpers/state-machine.js)
+
+![State Machine Visualization](state-machine.png)
