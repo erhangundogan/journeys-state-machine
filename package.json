@@ -1,0 +1,19 @@
+{
+  "name": "journeys-state-machine",
+  "version": "0.1.0",
+  "description": "journeys programming kata with state machine implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erhangundogan/journeys-state-machine.git"
+  },
+  "author": "Erhan Gundogan <erhan.gundogan@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/erhangundogan/journeys-state-machine#readme",
+  "dependencies": {
+    "xstate": "^4.7.8"
+  }
+}
