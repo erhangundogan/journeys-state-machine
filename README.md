@@ -16,6 +16,8 @@ node src
 State-Machine
 =============
 
-Visualization by https://xstate.js.org/viz/ with [journeys state machine](src/helpers/state-machine.js)
+Visualization by https://xstate.js.org/viz/ with [journeys state machine](src/helpers/state-machine.js). You can find online version [here](https://xstate.js.org/viz/?gist=076210cbd4d4d0c27784282800dbc181)
 
 ![State Machine Visualization](state-machine.png)
+
+
