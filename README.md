@@ -1,7 +1,7 @@
 Journeys
 ========
 
-Programming kata exercise with state machine ([xstate](https://xstate.js.org/)) running on nodejs. Please see https://github.com/erhangundogan/journeys/blob/master/README.md for more information.
+Programming kata exercise with state machine ([xstate](https://xstate.js.org/)) running on nodejs. Please see https://github.com/mikehadlow/Journeys for more information.
 
 Install
 =======
